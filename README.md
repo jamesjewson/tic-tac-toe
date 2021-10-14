@@ -14,3 +14,9 @@
 # What is this?
 - A simple tic tac toe game, built to help me learn React
 - Updates may or may not come, currently not a priority
+
+# Install
+`npm install`
+
+# Start App
+`npm start`
